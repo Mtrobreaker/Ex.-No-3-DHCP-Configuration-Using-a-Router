@@ -1,5 +1,5 @@
 ## Ex. No: 3  DHCP Configuration Using a Router
-Date:
+Date:27/10/2026
 ________________________________________
 # Objective
 To configure a router to automatically assign IP addresses to client PCs using the Dynamic Host Configuration Protocol (DHCP).
@@ -66,6 +66,10 @@ ________________________________________
 <img width="1918" height="1079" alt="Screenshot 2026-10-27 183931" src="https://github.com/user-attachments/assets/e645ecc5-5509-4ad8-a253-2d7645ae2757" />
 
 
+<img width="1919" height="1079" alt="Screenshot 2026-10-27 183927" src="https://github.com/user-attachments/assets/03b72856-f72d-4639-ae67-8df039e4bb1e" />
+
+
+
 •	Router configuration screen<br>
 
 <img width="1919" height="1074" alt="Screenshot 2026-10-27 183942" src="https://github.com/user-attachments/assets/2368f52f-4e43-4c6e-be82-b965d7892eac" />
@@ -73,7 +77,8 @@ ________________________________________
 
 •	Successful ping test between the two PCs<br>
 
-<img width="1919" height="1074" alt="Screenshot 2026-10-27 183942" src="https://github.com/user-attachments/assets/6e49a7e1-d58a-48e9-9e3a-2f29c6cba9d5" />
+<img width="1915" height="1079" alt="Screenshot 2026-10-27 182640" src="https://github.com/user-attachments/assets/2a053b75-012f-4fab-84f1-116c03906400" />
+
 
 ________________________________________
 # Result
